@@ -1,0 +1,1 @@
+discordWebhookURL = "WEBHOOK_URL" 
